@@ -2,8 +2,7 @@
 
 This project includes comprehensive analyses and forecasts for revenue projections, parcel shipping costs, and sales trends, leveraging various datasets and methodologies. 
 
-![alt text](plots/revenue_forecast.png)
-
+![alt text](plots/sold_items.png)
 
 ## Table of Contents
 
@@ -35,6 +34,8 @@ We employ three forecasting methods for revenue prediction:
    - *Weaknesses*: Requires parameter tuning.
 
 The analysis results and visualizations can be found in `main_file.ipynb`, with plots stored in the `plots/` folder.
+
+![alt text](plots/revenue_forecast.png)
 
 ---
 
@@ -73,6 +74,8 @@ Attached is `Assessment Data2.csv`, which contains mock-up order history data. T
 - Outlier Handling: Days with anomalous sales were flagged and treated to avoid skewing results.
 
 Key trends, outlier treatments, and forecasting insights are documented in the Jupyter Notebook.
+
+![alt text](plots/forecas_daily_item.png)
 
 ---
 

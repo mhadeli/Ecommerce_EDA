@@ -2,6 +2,8 @@
 
 This project includes comprehensive analyses and forecasts for revenue projections, parcel shipping costs, and sales trends, leveraging various datasets and methodologies. 
 
+![alt text](plots/revenue_forecast.png)
+
 
 ## Table of Contents
 
